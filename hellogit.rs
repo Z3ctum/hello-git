@@ -1,3 +1,3 @@
 fn main(){
-    println!("Hello git since Rust");
+    println!("New Hello git since Rust");
 }
